@@ -1,7 +1,7 @@
 ## NYC Taxi & Limousine Commission Trip Analysis ##
 
 ## Background
-This project analyzes taxi trip data provided by the New York City Taxi and Limousine Commission (TLC). The analysis focuses on understanding customer behavior and operational performance
+This project analyzes taxi trip data provided by the New York City Taxi and Limousine Commission (TLC). The analysis focuses on understanding customer behavior and operational performance.
 
 ## Objective Analysis
 This analysis aim to:
@@ -17,9 +17,9 @@ This analysis aim to:
 - Compare the average revenue across vendors.  
 - Determine the total number of trips based on vendors.  
 
-## Dataset
-Range dataset pada analisis ini yaitu bulan januari 2023, dataset dapat diperoleh disini: [dataset](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N)
-dataset terdiri dari 68211 dan 20 coloumns... 
+## Dataset  
+The dataset used in this analysis covers January 2023 and can be accessed here: [dataset](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N).  
+It consists of 68,211 rows and 20 columns.  
 
 ## Tools Used
 Python: For cleaning, preprocessing, and statistical analysis.
@@ -55,14 +55,14 @@ Jupyter Notebook: For documenting the analysis.
 2. **Time-based Demand Patterns**: Peak demand occurs between 12:00 and 13:00, driven by commuters and lunchtime activities. Demand drops late at night, indicating potential for more efficient resource allocation.
 3. **Key Pickup and Dropoff Zones**: High-demand zones like East Harlem and Central Harlem are critical for fleet optimization due to their cultural and entertainment significance.
 4. **Payment Preferences**: Credit card payments dominate, with cash as the second choice. This highlights the need for convenient, cashless payment systems.
-5. **Trip Behavior and Congestion**: Congestion increases trip duration by 15 minutes on average and reduces demand. Efficient routing and incentives during peak congestion could alleviate these issues. 
+5. **Trip Behavior and Congestion**: Congestion increases trip duration by 15 minutes on average and reduces demand. Efficient routing and incentives during peak congestion could alleviate these issues.
+   
 **Recommendation:**
 **Managing Rush Hours and High-Demand Periods:**
 1. **Increase Fleet Size:** Add vehicles during peak hours (11:00 AM - 1:00 PM) to reduce wait times. Consider operational costs and use targeted ads to encourage bookings.
 2. **Weekend Discounts:** Offer discounts on weekends to boost low demand, but avoid discounts during high-demand times.
 3. **Weekdays:** Ensure sufficient taxi availability on Tuesday, Friday, and Thursday.
 4. **Weekends:** Offer promotions on weekends to increase demand.
-
 **Pick-Up and Drop-Off Recommendations:**
 1. Improve infrastructure with designated areas for pick-up and drop-off in high-demand zones.
 2. Partner with events at venues like Central Park and Apollo Theater for ride discounts.
@@ -80,11 +80,11 @@ Jupyter Notebook: For documenting the analysis.
 1. Offer incentives to drivers working during peak or congested times to maintain service levels.
 2. Use navigation apps to suggest alternative routes and minimize delays caused by traffic.
 
-
 Discover the essential insights driving New York City's vibrant taxi services! Explore our comprehensive data analysis to uncover trends in peak demand, customer habits, and strategies for improving fleet performance. Access the findings now and learn how data can revolutionize urban transportation services.
 
 Check out the "nyc_tlc_analysis.ipynb" in jupyter notebooks.
-Tableau Link: [Tableau Publi](https://public.tableau.com/app/profile/mayang.sari5857/viz/Casptone/DashboardNewYorkTLCTrip)
+
+Tableau Link: [Tableau Public](https://public.tableau.com/app/profile/mayang.sari5857/viz/Casptone/DashboardNewYorkTLCTrip)
 Feel free to connect and discuss ideas!  
 **LinkedIn**: [Mayang Arthamevia](https://www.linkedin.com/in/mayangarthamevia/)  
 **Email**: [mayangspro@gmail.com](mailto:mayangspro@gmail.com)  
