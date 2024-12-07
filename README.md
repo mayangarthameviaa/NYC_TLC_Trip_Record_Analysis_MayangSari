@@ -23,8 +23,11 @@ It consists of 68,211 rows and 20 columns.
 
 ## Tools Used
 Python: For cleaning, preprocessing, and statistical analysis.
+
 Libraries: pandas, numpy, seaborn, matplotlib.
+
 Tableau: For creating interactive visualizations.
+
 Jupyter Notebook: For documenting the analysis.
 
 ## Steps
@@ -33,7 +36,7 @@ Jupyter Notebook: For documenting the analysis.
 - Conduct exploratory analysis to understand data distribution, outliers, and initial patterns using Python libraries like Pandas, Numpy and Seaborn.
 - Analyze correlations between variables.
 - Visualize the data using scatter plots or heatmaps.
-- 
+  
 **2. Data Cleaning**
 - Handle missing values and zero values to ensure data completeness.
 - Identify and remove outliers to improve data accuracy.
@@ -48,7 +51,7 @@ Jupyter Notebook: For documenting the analysis.
 
 **4. Data Visualization**
 - Create visualizations in Tableau or Matplotlib/Seaborn to highlight key trends.
-- 
+  
 **5. Insight & Recommendation**
 **Insight:**
 1. **Weekday vs Weekend Demand**: Demand is higher on weekdays, especially Tuesday, Friday, and Thursday, indicating work-related use. Weekend demand is lower, suggesting an opportunity for promotions to boost demand.
