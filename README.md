@@ -45,6 +45,7 @@ Jupyter Notebook: For documenting the analysis.
 - Converting certain numerical values into descriptive categories to simplify analysis.
 - Adjusting the time format to match the relevant time zone.
 - Creating new columns necessary for analysis, such as day of the week, trip hour, trip duration, and speed.
+- 
 - Merging the main dataset with relevant supporting data to enrich the analysis.
 **3. Data Analysis**
 - Answering specific questions based on the analysis objectives.
@@ -62,24 +63,28 @@ Jupyter Notebook: For documenting the analysis.
 5. **Trip Behavior and Congestion**: Congestion increases trip duration by 15 minutes on average and reduces demand. Efficient routing and incentives during peak congestion could alleviate these issues.
    
 **Recommendation:**
-**Managing Rush Hours and High-Demand Periods:**
 1. **Increase Fleet Size:** Add vehicles during peak hours (11:00 AM - 1:00 PM) to reduce wait times. Consider operational costs and use targeted ads to encourage bookings.
 2. **Weekend Discounts:** Offer discounts on weekends to boost low demand, but avoid discounts during high-demand times.
 3. **Weekdays:** Ensure sufficient taxi availability on Tuesday, Friday, and Thursday.
 4. **Weekends:** Offer promotions on weekends to increase demand.
+
 **Pick-Up and Drop-Off Recommendations:**
 1. Improve infrastructure with designated areas for pick-up and drop-off in high-demand zones.
 2. Partner with events at venues like Central Park and Apollo Theater for ride discounts.
 3. Ensure fleet availability during busy periods (11:00 AM - 12:00 PM).
+   
 **Tips and Payment Methods:**
 1. Train drivers for better service to encourage tipping and reward top performers.
 2. Focus on promoting credit card payments for ease and tips.
+   
 **Optimizing Payment Systems:**
 1. Optimize credit card payments with contactless options and ensure proper maintenance of payment tools.
 2. Handle cash payments efficiently and ensure quick and accurate processing.
+
 **Street-Hail and Dispatch System:**
 1. Increase taxi availability in busy areas like business centers and tourist spots.
 2. Ensure smooth dispatch operations in remote areas and encourage app usage with promotions.
+
 **Managing Congestion Impact:**
 1. Offer incentives to drivers working during peak or congested times to maintain service levels.
 2. Use navigation apps to suggest alternative routes and minimize delays caused by traffic.
