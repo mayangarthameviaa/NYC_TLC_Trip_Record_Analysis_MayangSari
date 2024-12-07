@@ -20,6 +20,7 @@ This analysis aim to:
 ## Dataset  
 The dataset used in this analysis covers January 2023 and can be accessed here: [dataset](https://drive.google.com/drive/folders/1NYHIL-RgVPW-HONz4pdzlcbIChF-c37N).  
 It consists of 68,211 rows and 20 columns.  
+For supporting data to identify the area corresponding to each location ID, you can access it here: [NYC Taxi Zones](https://catalog.data.gov/dataset/nyc-taxi-zones).
 
 ## Tools Used
 Python: For cleaning, preprocessing, and statistical analysis.
