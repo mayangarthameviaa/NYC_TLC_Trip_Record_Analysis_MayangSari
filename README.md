@@ -94,6 +94,7 @@ Discover the essential insights driving New York City's vibrant taxi services! E
 Check out the "nyc_tlc_analysis.ipynb" in jupyter notebooks.
 
 Tableau Link: [Tableau Public](https://public.tableau.com/app/profile/mayang.sari5857/viz/Casptone/DashboardNewYorkTLCTrip)
+
 Feel free to connect and discuss ideas!  
 **LinkedIn**: [Mayang Arthamevia](https://www.linkedin.com/in/mayangarthamevia/)  
 **Email**: [mayangspro@gmail.com](mailto:mayangspro@gmail.com)  
